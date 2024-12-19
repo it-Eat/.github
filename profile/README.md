@@ -15,22 +15,22 @@
           <sub><a href="https://github.com/Minsugar98">GitHub 프로필</a></sub>
         </td>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/ddbd4893-8917-46bd-b4f1-44bfd2c7ac9c" width="150px;" height="180px;" alt="주영은"/><br />
+          <img src="https://github.com/user-attachments/assets/d891e028-511f-4d7e-a08b-d11a63e9826b" width="150px;" height="180px;" alt="주영은"/><br />
           <b>BE 팀원: 주영은</b><br />
           <sub><a href="https://github.com/juyeongeun">GitHub 프로필</a></sub>
         </td>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/ddbd4893-8917-46bd-b4f1-44bfd2c7ac9c" width="150px;" height="180px;" alt="주영은"/><br />
+          <img src="https://github.com/user-attachments/assets/7b613055-87a1-4657-8c89-9c801643eeb8" width="150px;" height="180px;" alt="주영은"/><br />
           <b>FE 팀원: 천세윤</b><br />
           <sub><a href="https://github.com/yooniverse7">GitHub 프로필</a></sub>
         </td>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/ddbd4893-8917-46bd-b4f1-44bfd2c7ac9c" width="150px;" height="180px;" alt="주영은"/><br />
+          <img src="https://github.com/user-attachments/assets/e9031c89-f8d0-44f0-a5ef-39224274d737" width="150px;" height="180px;" alt="주영은"/><br />
           <b>FE 팀원: 정영한</b><br />
           <sub><a href="https://github.com/ynghan">GitHub 프로필</a></sub>
         </td>
         <td align="center">
-          <img src="https://github.com/user-attachments/assets/ddbd4893-8917-46bd-b4f1-44bfd2c7ac9c" width="150px;" height="180px;" alt="주영은"/><br />
+          <img src="https://github.com/user-attachments/assets/a46f5751-46d3-41d1-bc81-962cadeb516b" width="150px;" height="180px;" alt="주영은"/><br />
           <b>FE 팀원: 박수민</b><br />
           <sub><a href="https://github.com/sumina225">GitHub 프로필</a></sub>
         </td>
