@@ -67,6 +67,8 @@ Festival Companion과 함께 기다림 없는 축제와 다양한 정보를 경�
 
 ### Frontend
 
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=express&logoColor=white">
+
 ### Backend
 
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/PrismaORM-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
