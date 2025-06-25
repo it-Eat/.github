@@ -59,7 +59,7 @@ Festival Companion과 함께 기다림 없는 축제와 다양한 정보를 경�
 
 ### **🗓 프로젝트 기간**
 
-📅 2024.10.30 ~ ing
+📅 2024.10.30 ~ 2025.04.16
 
 ---
 
@@ -97,5 +97,5 @@ Festival Companion과 함께 기다림 없는 축제와 다양한 정보를 경�
   - 이벤트 소식, 게시글 댓글 알림 등 해당 축제의 정보를 실시간으로 확인
 
 ## **🔗 링크**
-- [📄 시연 링크](곧 공개 예정)
+- [📄 시연 링크](https://iteat.netlify.app/)
 - [GitHub Repositiory](https://github.com/festival-infomation)
